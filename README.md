@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 📫 How to reach me: 17325285605(Weechat & PhoneNumber) 
 - website: https://clearrelationship.github.io/ClearRelationship/
-- 🔭 I’m currently looking for job
-- 🌱 I’m currently learning on ai StaleDiffusion blender Design
+- 🔭 I’m currently working on clearrelationship
+- 🌱 I’m currently learning on ai it virtualization
 
 <!--
 **ClearRelationship/ClearRelationship** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
